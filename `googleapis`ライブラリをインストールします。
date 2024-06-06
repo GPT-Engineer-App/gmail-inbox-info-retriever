@@ -1,0 +1,5 @@
+     npm install googleapis
+     ```
+
+### サンプルコード
+以下のサンプルコードは、Node.js環境でGmail APIを使用して受信メール情報を取得する方法を示しています。
